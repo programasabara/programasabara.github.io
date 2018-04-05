@@ -1,0 +1,6 @@
+Nome de usuário do FTP: programasabara@programasabara.calex.mat.br
+Servidor FTP: ftp.calex.mat.br
+FTP & porta FTPS explícita:  21 
+Senha: tapete
+
+Site: http://calex.mat.br/programasabara.calex.mat.br/
